@@ -10,6 +10,8 @@ public class Sheep implements Cloneable {
     private int age;
     private String color;
 
+    public Sheep friend;
+
     public String getName() {
         return name;
     }
