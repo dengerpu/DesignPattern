@@ -1,4 +1,4 @@
-package adapterPattern.ObjectAdapter;
+package AdapterPattern.ObjectAdapter;
 
 /***
  * @author dep

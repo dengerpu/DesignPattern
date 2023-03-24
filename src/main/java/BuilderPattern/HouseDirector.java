@@ -1,4 +1,4 @@
-package builderPattern;
+package BuilderPattern;
 
 /***
  * @author dep

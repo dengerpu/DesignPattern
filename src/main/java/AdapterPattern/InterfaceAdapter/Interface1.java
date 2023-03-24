@@ -1,4 +1,4 @@
-package adapterPattern.InterfaceAdapter;
+package AdapterPattern.InterfaceAdapter;
 
 /***
  * @author dep
