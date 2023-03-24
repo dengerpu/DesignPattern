@@ -12,7 +12,8 @@ public class Client {
         // 准备创建房子的指挥者
         HouseDirector director = new HouseDirector(commonsHouse);
         // 完成盖房子，返回产品（房子）
-        director.ConstructHouse();
+        House house = director.ConstructHouse();
+        System.out.println(house);
 
         System.out.println("-------------");
         // 准备盖高楼
@@ -20,6 +21,7 @@ public class Client {
         // 准备创建房子的指挥者
         HouseDirector director2 = new HouseDirector(highBuilding);
         // 完成盖房子，返回产品（房子）
-        director2.ConstructHouse();
+        House house2 = director2.ConstructHouse();
+        System.out.println(house2);
     }
 }

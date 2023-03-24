@@ -8,16 +8,19 @@ package builderPattern;
 public class CommonsHouse extends HouseBuilder{
     @Override
     public void buildBasic() {
+        house.setBaise("普通房子打地基10米");
         System.out.println("普通房子打地基10米");
     }
 
     @Override
     public void buildWalls() {
+        house.setWall("普通房子砌墙10cm");
         System.out.println("普通房子砌墙10cm");
     }
 
     @Override
     public void roofed() {
+        house.setRoofed("普通房子屋顶");
         System.out.println("普通房子屋顶");
     }
 }
