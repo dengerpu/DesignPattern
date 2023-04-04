@@ -1,4 +1,4 @@
-package Memento.game;
+package MementoPattern.game;
 
 /***
  * @author dep

@@ -1,4 +1,4 @@
-package Interpreter;
+package InterpreterPattern;
 
 import java.util.HashMap;
 import java.util.Stack;

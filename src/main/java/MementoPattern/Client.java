@@ -1,4 +1,4 @@
-package Memento;
+package MementoPattern;
 
 /***
  * @author dep

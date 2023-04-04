@@ -1,4 +1,4 @@
-package Memento.game;
+package MementoPattern.game;
 
 import java.util.ArrayList;
 import java.util.HashMap;
